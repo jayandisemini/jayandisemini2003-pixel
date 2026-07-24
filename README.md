@@ -1,9 +1,23 @@
-<h1 align="center">Hi 👋, I'm Jayandi Semini</h1>
-<h3 align="center">A passionate Frontend & Full-Stack Developer from Sri Lanka 🇱🇰</h3>
+<!-- ===================== SUPER PROFILE HEADER ===================== -->
+<div align="center">
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=jayandisemini2003-pixel&label=Profile%20views&color=0e75b6&style=flat" alt="jayandisemini2003-pixel" /> 
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0D1117,45:1F6FEB,100:58A6FF&height=180&section=header&text=Jayandi%20Semini&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlpha=0.9" width="100%" alt="header" />
+
+<a href="https://github.com/jayandisemini2003-pixel">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Hi+there%2C+I'm+Jayandi+Semini+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;React+%7C+FastAPI+%7C+AWS+%F0%9F%9A%80;Always+Learning%2C+Always+Building+%F0%9F%93%9A" alt="Typing animation" />
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=jayandisemini2003-pixel&label=Profile%20views&color=58A6FF&style=for-the-badge" alt="Profile views" />
+<br/><br/>
+
+<!-- Using a reliable remote GIF to prevent broken local image links -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="86%" alt="Kid coding with coffee on a rainy night" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
+
+</div>
+
+<br />
 
 ---
 
@@ -28,7 +42,6 @@
   <a href="https://www.facebook.com/share/1BFNTxACD1/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jayandi.semini" height="30" width="40" />
   </a>
- 
 </p>
 
 ---
@@ -60,3 +73,9 @@
 
 ![Jayandi's Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jayandisemini&layout=compact&theme=tokyonight&locale=en)
 
+<br />
+
+<!-- ===================== FOOTER BANNER ===================== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0D1117,45:1F6FEB,100:58A6FF&height=150&section=footer" alt="Footer Banner" width="100%" />
+</div>
